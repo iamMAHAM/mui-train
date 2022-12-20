@@ -1,12 +1,6 @@
 {
   "notes": [
     {
-      "id": 1,
-      "title": "Learn Material design 5",
-      "details": "Yes start learn mui design from now.. because css and responsive media query are so pfffszdzd",
-      "language": "javascript"
-    },
-    {
       "id": 2,
       "title": "build a mui design ui to tuto.nan.ci",
       "details": "Yes si'll fix all template integration errors now ...",
@@ -31,10 +25,16 @@
       "id": 5
     },
     {
-      "title": "test",
-      "details": "nex test",
-      "language": "c",
+      "title": "another test i'am testing this ",
+      "details": "this is a small detail for building this things so please help me today i'm going to be doing a oil massage video so hello help. me i'm trained me for the moment and rameaux want to make me a better typographe but i need more train for that",
+      "language": "typescript",
       "id": 6
+    },
+    {
+      "title": "test a beautiful todo app for test many things",
+      "details": "this is a sample text wrapper for more things",
+      "language": "c",
+      "id": 7
     }
   ]
 }
